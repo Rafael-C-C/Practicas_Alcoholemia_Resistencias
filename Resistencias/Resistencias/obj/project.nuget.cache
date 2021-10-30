@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8v4uxsoxP2rdhZFUPlntUa6ZAh+gAobLqkrSCAI7xMMCvTZlXY6gD7G7IbuYQTX8RbO1cS/OXxsPZuPvlBJeA==",
+  "success": true,
+  "projectFilePath": "C:\\home\\Ejercicios_p2\\Resistencias\\Resistencias\\Resistencias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\live\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
